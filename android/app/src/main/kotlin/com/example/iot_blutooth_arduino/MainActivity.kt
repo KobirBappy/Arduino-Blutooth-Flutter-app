@@ -1,4 +1,4 @@
-package com.example.iot_blutooth_arduino
+package com.kobirbappy.iotblutootharduino
 
 import io.flutter.embedding.android.FlutterActivity
 
